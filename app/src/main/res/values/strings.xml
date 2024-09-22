@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyApp Launch Weather</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="please_login_to_continue">Please login to continue</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="temperature_in_deg">%1$s°</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="humidity_unit">percentage %</string>
+    <string name="wind_speed_unit">km/hr</string>
+    <string name="back">back</string>
+    <string name="icon">icon</string>
+    <string name="logout">Logout</string>
+    <string name="no_users_found">No users found</string>
+    <string name="fill_up_details">Fill up details</string>
+</resources>
